@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(echo   • Financial transaction \\($2,500\\):*)",
+      "Bash(echo    ✓ Task 2: Invoice to Acme Corp \\($2,500\\):*)",
+      "Bash(echo:*)",
+      "Bash(D:/Bronze_tier/VERIFY_SYSTEM.sh:*)",
+      "Bash(bash:*)",
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)",
+      "Bash(.gitignore:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(RUN_GMAIL_WATCHER.bat:*)",
+      "Bash(GENERATE_LINKEDIN_POST.bat:*)",
+      "Bash(CHECK_STATUS.bat:*)",
+      "Bash(DEMO_BOTH_WATCHERS.bat:*)",
+      "Bash(pip install:*)",
+      "Bash(where py:*)",
+      "Bash(netstat:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "Bash(cp:*)",
+      "Bash(grep:*)",
+      "Bash(rm:*)",
+      "Bash(rmdir:*)"
+    ]
+  }
+}

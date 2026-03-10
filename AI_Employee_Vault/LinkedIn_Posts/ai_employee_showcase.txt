@@ -1,0 +1,7 @@
+Meet my fully autonomous AI Employee 🤖 — handling Gmail, LinkedIn, approvals, and tasks 24/7 without manual intervention! 🚀
+
+Built with Python + Playwright + Claude.
+
+No interns were harmed in the making of this automation 😅
+
+#AI #Automation #FutureOfWork #Productivity #Python #Playwright #ClaudeCode

@@ -1,0 +1,13 @@
+Task: Review and summarize the Q1 2026 business report.
+
+Priority: High
+Category: Business Analysis
+Deadline: End of week
+
+Details:
+- Analyze revenue trends
+- Identify key bottlenecks
+- Suggest improvements
+- Prepare executive summary
+
+Please process according to Company Handbook guidelines.

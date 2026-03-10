@@ -1,0 +1,29 @@
+[project]
+name = "ai-employee-bronze"
+version = "0.1.0"
+description = "Bronze Tier Personal AI Employee - Autonomous task management with Claude Code"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "watchdog>=4.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "black>=24.0.0",
+    "ruff>=0.3.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.black]
+line-length = 100
+target-version = ['py313']
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"

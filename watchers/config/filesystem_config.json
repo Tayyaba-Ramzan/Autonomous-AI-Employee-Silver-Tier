@@ -1,0 +1,20 @@
+{
+  "check_interval": 10,
+  "watch_directories": [
+    "~/Dropbox/AI_Drop",
+    "~/Downloads/AI_Process"
+  ],
+  "file_patterns": [
+    "*.pdf",
+    "*.docx",
+    "*.xlsx",
+    "*.txt",
+    "*.csv",
+    "*.json"
+  ],
+  "ignore_patterns": [
+    ".*",
+    "~*",
+    "*.tmp"
+  ]
+}

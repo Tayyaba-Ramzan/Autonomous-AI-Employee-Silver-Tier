@@ -1,0 +1,10 @@
+This is a demo test file for the AI Employee.
+
+Task: Review this document and create a summary.
+
+Details:
+- Priority: Medium
+- Category: Documentation
+- Action Required: Read and summarize
+
+Please process this task according to Company Handbook rules.

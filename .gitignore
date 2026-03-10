@@ -1,0 +1,50 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Credentials and secrets
+credentials/
+.env
+*.json.secret
+*_token.pickle
+*_session/
+sessions/
+
+# Logs
+AI_Employee_Vault/Logs/*.log
+AI_Employee_Vault/Logs/*.json
+*.log
+
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*~
+.cache/
+*.png
+*_error.png
+*_failed.png
+
+# Playwright
+playwright/.cache/

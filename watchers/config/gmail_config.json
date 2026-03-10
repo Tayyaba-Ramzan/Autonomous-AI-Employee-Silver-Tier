@@ -1,0 +1,18 @@
+{
+  "check_interval": 120,
+  "credentials_path": "credentials/gmail_credentials.json",
+  "token_path": "credentials/gmail_token.pickle",
+  "filters": {
+    "is_unread": true,
+    "is_important": true,
+    "exclude_labels": ["spam", "promotions", "social", "updates"]
+  },
+  "urgent_keywords": [
+    "urgent",
+    "asap",
+    "important",
+    "critical",
+    "emergency"
+  ],
+  "max_results": 10
+}

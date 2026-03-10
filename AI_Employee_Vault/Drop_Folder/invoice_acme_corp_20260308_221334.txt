@@ -1,0 +1,15 @@
+Task: Send invoice to new client - Acme Corp
+
+Priority: High
+Category: Financial
+Amount: ,500
+
+Details:
+- New client: Acme Corp (acme@example.com)
+- Invoice #: INV-2026-001
+- Services: Q1 Consulting Services
+- Payment terms: Net 30
+
+Action required: Draft and send invoice email.
+
+IMPORTANT: This involves a new contact and financial transaction.

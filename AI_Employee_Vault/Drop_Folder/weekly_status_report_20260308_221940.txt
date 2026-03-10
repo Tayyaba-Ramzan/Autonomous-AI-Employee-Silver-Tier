@@ -1,0 +1,17 @@
+Task: Create Weekly Status Report Template
+
+Priority: Medium
+Category: Documentation
+Deadline: End of day
+
+Requirements:
+- Create a reusable template for weekly status reports
+- Include sections for: Accomplishments, Challenges, Next Week's Goals
+- Format should be professional and easy to fill out
+- Add placeholders for metrics (tasks completed, hours worked, etc.)
+
+Context:
+This will be used every Friday to summarize the week's work.
+The report should be concise (1-2 pages max) and suitable for sharing with stakeholders.
+
+Please draft the template and save it in the appropriate location.
