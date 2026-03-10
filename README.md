@@ -331,26 +331,6 @@ Process Manager → Checks watcher health every 30s
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard View
-![Dashboard](docs/screenshots/dashboard.png)
-*Real-time system status with task counts and recent activity*
-
-### Email Processing
-![Email Processing](docs/screenshots/email-processing.png)
-*Automatic email detection and action file creation*
-
-### LinkedIn Automation
-![LinkedIn Automation](docs/screenshots/linkedin-automation.png)
-*AI-generated LinkedIn posts with approval workflow*
-
-### Process Manager
-![Process Manager](docs/screenshots/process-manager.png)
-*24/7 orchestrator with auto-restart capabilities*
-
----
-
 ## 📝 Logs & Audit Trail
 
 All system activity is logged for transparency and debugging:
@@ -438,9 +418,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer:** Your Name
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Tayyaba-Ramzan)
+- Email: tayyabaramzan.it@gmail.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/tayyabaRamzan)
 
 ---
 
@@ -448,7 +428,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ using Claude Code**
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/ai-employee?style=social)](https://github.com/yourusername/ai-employee)
-[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Star this repo](https://img.shields.io/github/stars/Tayyaba-Ramzan/ai-employee?style=social)](https://github.com/Tayyaba-Ramzan/ai-employee)
+[![Follow on GitHub](https://img.shields.io/github/followers/Tayyaba-Ramzan?style=social)](https://github.com/Tayyaba-Ramzan)
 
 </div>
