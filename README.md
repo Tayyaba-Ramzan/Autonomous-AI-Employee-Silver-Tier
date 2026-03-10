@@ -428,7 +428,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ using Claude Code**
 
-[![Star this repo](https://img.shields.io/github/stars/Tayyaba-Ramzan/ai-employee?style=social)](https://github.com/Tayyaba-Ramzan/Autonomous-AI-Employee-Silver-Tier.git)
-[![Follow on GitHub](https://img.shields.io/github/followers/Tayyaba-Ramzan?style=social)](https://github.com/Tayyaba-Ramzan)
-
 </div>
